@@ -1,0 +1,6 @@
+
+{
+  "name": "Paid Media Campaign Creator",
+  "description": "A tool to create a dummy Facebook media campaign using the Marketing API. Enter your credentials and click the button to create a test campaign in a PAUSED state.",
+  "requestFramePermissions": []
+}
